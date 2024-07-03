@@ -14,7 +14,7 @@
 - lv1_09 : 문자열 내림차순으로 배치하기
 
 ## 문제 목록2 (KAKAO)
-- klv-01 :  [숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301?language=cpp)
+- klv_01 :  [숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301?language=cpp)
 
 
 ## 설명
